@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588950865137",
+    "project_id": "dasanbong-c429c",
+    "storage_bucket": "dasanbong-c429c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588950865137:android:3ec0e6d8249743e9101550",
+        "android_client_info": {
+          "package_name": "com.example.dasanbong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588950865137-neria94ap72l9i2vqd1q7oa6e1ukr0vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dasanbong",
+            "certificate_hash": "788d96a1c340fb0ecb46327d5018c167b0571587"
+          }
+        },
+        {
+          "client_id": "588950865137-4lob5ujbegcomqqo3l1prsgeo71buot5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw829htvgBlvFqV2oJGei133XLT0EzX-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588950865137-4lob5ujbegcomqqo3l1prsgeo71buot5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
